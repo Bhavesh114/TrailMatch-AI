@@ -10,7 +10,7 @@
 
 ## Documentation Files (9 Total)
 
-### 1. **01_system_requirements.md** (61 KB, 1,351 lines)
+### 1. **01_system_requirements.md** 
 **System Requirements Document (SRD)**
 
 Comprehensive specification of what the system must do and how it must behave.
@@ -29,7 +29,7 @@ Comprehensive specification of what the system must do and how it must behave.
 
 ---
 
-### 2. **02_architecture.md** (62 KB, 1,849 lines)
+### 2. **02_architecture.md** 
 **Technical Architecture Document**
 
 Complete system design from user browser through backend to APIs.
@@ -49,7 +49,7 @@ Complete system design from user browser through backend to APIs.
 
 ---
 
-### 3. **03_api_reference.md** (37 KB, 1,319 lines)
+### 3. **03_api_reference.md** 
 **Complete API Reference**
 
 OpenAPI-style documentation of all system endpoints.
@@ -73,7 +73,7 @@ OpenAPI-style documentation of all system endpoints.
 
 ---
 
-### 4. **04_prompt_engineering.md** (38 KB, 1,068 lines)
+### 4. **04_prompt_engineering.md** 
 **Complete Prompt Engineering Guide**
 
 Design philosophy and implementation of LLM prompts for extraction and screening.
@@ -101,7 +101,7 @@ Design philosophy and implementation of LLM prompts for extraction and screening
 
 ---
 
-### 5. **05_data_models.md** (31 KB, 1,061 lines)
+### 5. **05_data_models.md** 
 **Complete Data Models Reference**
 
 Full specification of all data structures used in the system.
@@ -126,7 +126,7 @@ Full specification of all data structures used in the system.
 
 ---
 
-### 6. **06_developer_setup.md** (20 KB, 921 lines)
+### 6. **06_developer_setup.md** 
 **Developer Setup and Development Guide**
 
 Step-by-step instructions for setting up development environment.
@@ -154,7 +154,7 @@ Step-by-step instructions for setting up development environment.
 
 ---
 
-### 7. **07_user_guide.md** (24 KB, 612 lines)
+### 7. **07_user_guide.md** 
 **User Guide for Study Coordinators**
 
 Non-technical guide written for Sarah (Study Coordinator persona).
@@ -181,7 +181,7 @@ Non-technical guide written for Sarah (Study Coordinator persona).
 
 ---
 
-### 8. **08_compliance_notes.md** (23 KB, 600 lines)
+### 8. **08_compliance_notes.md**
 **Compliance and Data Handling Document**
 
 Detailed compliance analysis and data protection specification.
@@ -203,7 +203,7 @@ Detailed compliance analysis and data protection specification.
 
 ---
 
-### 9. **09_testing_strategy.md** (28 KB, 894 lines)
+### 9. **09_testing_strategy.md** 
 **Complete Testing Strategy Document**
 
 Comprehensive testing plan covering all levels of quality assurance.
@@ -235,23 +235,6 @@ Comprehensive testing plan covering all levels of quality assurance.
 - Test artifacts and reporting
 
 **Use Case:** QA planning, test automation, release gates
-
----
-
-## Document Statistics
-
-| Document | Size | Lines | Words | Purpose |
-|---|---|---|---|---|
-| 01_system_requirements.md | 61 KB | 1,351 | ~11,000 | Requirements specification |
-| 02_architecture.md | 62 KB | 1,849 | ~12,500 | System design |
-| 03_api_reference.md | 37 KB | 1,319 | ~8,500 | API contracts |
-| 04_prompt_engineering.md | 38 KB | 1,068 | ~9,000 | LLM prompt development |
-| 05_data_models.md | 31 KB | 1,061 | ~7,500 | Data structure definitions |
-| 06_developer_setup.md | 20 KB | 921 | ~6,000 | Development environment |
-| 07_user_guide.md | 24 KB | 612 | ~5,000 | End-user training |
-| 08_compliance_notes.md | 23 KB | 600 | ~5,000 | Compliance documentation |
-| 09_testing_strategy.md | 28 KB | 894 | ~7,500 | QA and testing |
-| **TOTAL** | **340 KB** | **9,675** | **~71,500** | **Complete documentation suite** |
 
 ---
 
